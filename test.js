@@ -53,3 +53,4 @@ function evaluation(userInput) {
     req.end();
   }
   
+  const APIKEY = "550e7956f012f471d91a126c635add67"
